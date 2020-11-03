@@ -1,37 +1,5 @@
-* {
-    background-color: rgb(6, 159, 206);
-    color: white;
-    box-sizing: border-box;
-    width: 1000px;
-    margin: 0 auto 0 auto;
-    font-family: 'Archivo', sans-serif;
-    font-size: 18px;
-    }
-    h1 {
-        padding: 5px;
-        font-size: 35px;
-        line-height: 52.5px;
-    }
-    .wrapper {
-        width: 800px;
-    }
-    .photo {
-        width: 33%;
-        float: left;
-        position: relative;
-        left: -100px;
-
-    }
-    .bio {
-        width: 50%;
-        float: left;
-        font-size: 20px;
-        line-height: 30px ;
-
-    }
-    .contact {
-        clear: both;
-    }
-    .contact:hover {
-        font-size: larger;
-    }
+.big-banner {
+    background-image: url('Charlotte.jpg');
+    background-size: 100%;
+    
+}
